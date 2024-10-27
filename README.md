@@ -25,7 +25,7 @@ This dashboard provides a high-level overview of the loan metrics, focusing on t
 
 ### 2. Overview Dashboard
 
-![Overview Dashboard](Power%20BI/Overview_Dashboard.png)
+![Overview Dashboard](Power%20BI/Overview_Dashoard.png)
 
 This dashboard offers a more detailed analysis of the loan data through various visualizations:
 - **Monthly Trends by Issue Date** (Line Chart): Identifies seasonal and long-term trends in loan issuance.
@@ -44,5 +44,28 @@ This comprehensive dashboard serves as a detailed report, providing a holistic v
 - Easy access to borrower profiles and loan performance details.
 - An interactive interface for exploring key data points related to loan applications, funding, and repayments.
 
-## Project Structure
 
+## How to Use
+
+1. **Navigate to the Dataset Folder**: 
+   Load the `financial_loan.csv` dataset into your analysis tool.
+2. **Explore the Power BI Dashboards**:
+   - Open the Power BI files or use the provided `.png` files for a quick overview.
+   - Navigate through the dashboards to explore different insights.
+3. **Run SQL Queries** (if applicable):
+   - Use the provided SQL scripts in the `SQL` folder for additional data processing.
+
+## Insights
+
+This project helps in:
+- Monitoring loan performance through key metrics like application trends, funded amounts, and repayment details.
+- Understanding the distribution of loans based on regions, employment lengths, and homeownership status.
+- Making data-driven decisions to improve the overall loan approval process and fund allocation strategies.
+
+## Contributing
+
+Contributions are welcome! If you find a bug or have suggestions for improvements, please create an issue or submit a pull request.
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
